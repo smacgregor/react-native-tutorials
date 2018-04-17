@@ -3,7 +3,7 @@
 A set of tutorials on React Native bsed on https://www.udemy.com/the-complete-react-native-and-redux-course.
 
 
-## Albums
+## [Albums](../master/albums)
 
 A simple React Native application that renders a scrolling list of 5 music albums. Key concepts:
 * JSX
@@ -15,7 +15,7 @@ A simple React Native application that renders a scrolling list of 5 music album
 * Basic networking requests using Axios
 * Component level state
 
-## Auth
+## [Auth](../master/auth)
 
 A login form powered by Firebase in React Native. Key Concepts:
 
@@ -24,7 +24,7 @@ A login form powered by Firebase in React Native. Key Concepts:
 * Firebase Auth
 * Application level state with Redux
 
-## Techstack
+## [Techstack](../master/techstack)
 
 A scrolling list of "tech stack options". Tapping an option expands that entry in the list into a detailed view. Key concepts:
 
@@ -33,7 +33,7 @@ A scrolling list of "tech stack options". Tapping an option expands that entry i
 * ES6 string and key interpolation
 
 
-## Employee Manager
+## [Employee Manager](../master/manager)
 
 An app for allowing an employeer to manage a set of employees (name, phone number and a shift schedule). Key concepts:
 * Going deeper with Redux and application state
